@@ -2,12 +2,12 @@
     "module":  "Tyrian Tally",
     "namespace":  "bh.peeringinward.TyrianTally",
     "currentVersion":  "0.1.9",
-    "minimumSupportedVersion":  "0.1.9",
-    "priority":  "none",
+    "minimumSupportedVersion":  "",
+    "priority":  "standard",
     "required":  false,
     "blocksUse":  false,
     "downloadUrl":  "https://raw.githubusercontent.com/Caduceus/TyrianTally-Releases/main/0.1.9/TyrianTally.bhm",
     "sha256":  "2bb003f1b99ec4245456b97f89c172c5f1a065391f9f9fd97fc826783d4b9d07",
-    "message":  "Tyrian Tally is up to date.",
-    "publishedUtc":  "2026-07-09T04:11:46Z"
+    "message":  "A newer version of Tyrian Tally is ready.",
+    "publishedUtc":  "2026-07-09T20:10:20Z"
 }
